@@ -1,2 +1,2 @@
-# SATCP
-SnowCluster AES Cryptography TCP Server Project
+# PATCP
+Phantester AES Cryptography TCP Server Project
